@@ -11,3 +11,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucahb2407&theme=github&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github.com/lucahb2407/lucahb2407/blob/output/github-contribution-grid-snake.svg" />
+</p>
