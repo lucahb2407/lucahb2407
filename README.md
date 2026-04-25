@@ -1,4 +1,4 @@
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"> ⚡ Stats ⚡</h2>
 
 <p align="center">
   <img height="150" src="https://streak-stats.demolab.com?user=lucahb2407&theme=default&hide_border=true" />
