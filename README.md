@@ -4,7 +4,5 @@
   <img height="150" src="https://streak-stats.demolab.com?user=lucahb2407&theme=default&hide_border=true" />
   &nbsp;&nbsp;
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=lucahb2407&show_icons=true&theme=default&hide_border=true" />
-
-![Snake animation](https://github.com/lucahb2407/lucahb2407/blob/output/github-contribution-grid-snake.svg)
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucahb2407&theme=tokyo-night" />
 </p>
